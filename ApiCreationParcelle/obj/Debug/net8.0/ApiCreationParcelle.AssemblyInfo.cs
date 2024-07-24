@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiCreationParcelle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea3abd2054713c52ebccf9432b3a27eb11789e28")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiCreationParcelle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiCreationParcelle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
